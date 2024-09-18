@@ -101,7 +101,7 @@ jsonschema-specifications==2023.12.1
 jsonschema==4.21.1
 kiwisolver==1.4.5
 linkify-it-py==2.0.3
-lmms_eval==0.1.1
+lmms_eval
 lxml==5.2.1
 markdown-it-py==2.2.0
 markdown2==2.4.13
